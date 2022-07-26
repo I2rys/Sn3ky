@@ -1,4 +1,5 @@
 <h1 align="center">Sn3ky</h1>
+<h2 align="center">Sn3ky is no longer maintained</h2>
 <h4 align="center">100% undetectable NodeJS google cookie, history, data and etc stealer</h4>
 <p align="center">
 	<img src="https://github.com/I2rys/Sn3ky/blob/main/preview.PNG?raw=true"></img>
